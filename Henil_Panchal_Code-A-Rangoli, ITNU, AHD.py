@@ -5,7 +5,7 @@ Thus, making  it a Truely code to Graphic Rangoli.
 
 Made by : Henil Shalin Panchal
 Institute: Institute of Technology , Nirma University, Ahmedabad.
-Email Id: keyuriksppanchal@gmail.com
+
 '''
 
 import turtle    # Using Python's Inbuilt Turtle Library.
